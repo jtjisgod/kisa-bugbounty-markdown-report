@@ -12,3 +12,8 @@ $ subl Report.md # Open with sublimetext or
 $ vim Report.md # Open with vim or 
 $ notepad Report.md # Open with notepad.exe ...
 ```
+
+### 배포시 유의사항
+#### Typora를 사용하는 경우
+- 먼저, html로 변환합니다.
+- 크롬으로 접속 후 PDF로 변환합니다.
