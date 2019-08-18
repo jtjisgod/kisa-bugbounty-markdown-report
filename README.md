@@ -1,7 +1,9 @@
 # kisa-bugbounty-markdown-report
 kisa-bugbounty-markdown-report
 
-Copyright &copy; 장태진 <jtjisgod@gmail.com>
+Markdown Report Copyright &copy; 장태진 <jtjisgod@gmail.com>
+
+- Markdown 확장자 이지만 90%가 HTML으로 작성된 이 이상한 문서를 잘 활용해보세요! 저는 Typora를 통해 제작했습니다. 
 
 ### Usage ; 사용방법
 ```
